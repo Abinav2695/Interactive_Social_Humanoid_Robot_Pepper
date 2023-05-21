@@ -1,0 +1,7 @@
+requests==2.26.0
+imutils==0.5.4
+google-search-results
+numpy==1.13.3
+Flask==2.0.2
+Pillow==8.4.0
+rasa==2.8.9

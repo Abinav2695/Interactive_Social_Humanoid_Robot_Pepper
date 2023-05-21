@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/hellboy/GCSC/Pepper_development/ROS_Pepper/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages"
+    ]
+}

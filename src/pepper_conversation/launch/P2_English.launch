@@ -1,0 +1,6 @@
+<launch>
+    <node name= "conversation_node_2" pkg = "pepper_conversation" type = "pepper_main.py" output="screen" args='-i 10.10.3.129 -l english -d 2'/>
+    <node name= "face_recognition_node_2" pkg = "pepper_conversation" type = "recognize_faces.py" output="screen" args='-i 10.10.3.129 -d 2' />
+    <node name= "led_node_2" pkg = "pepper_conversation" type = "led_proxy.py" output="screen" args='-i 10.10.3.129 -d 2'/>
+    <node name= "rasa_node_2" pkg = "pepper_conversation" type = "rasa_node.py" output="screen" args='-i 10.10.3.129 -d 2'/>
+</launch>

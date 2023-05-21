@@ -1,0 +1,13 @@
+numpy==1.16.6
+SoundFile
+requests
+SpeechRecognition
+pydub
+gTTS
+face-recognition
+Pillow
+imutils
+pickle
+optparse-pretty
+argparse
+
